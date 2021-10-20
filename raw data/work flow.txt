@@ -1,0 +1,14 @@
+
+
+UML DIAFGRAMS --> Kartikeya + pratham....use case...class diagram..activity...
+ALgo --> Tanmay + Abhinav
+Pseudo Codes --> Tanmay + Abhinav
+Documentation--> SRS+Report+PPt --> kartikeya + pratham
+Code--> Login Page... --> All 3 of us..
+
+
+Create acc
+login
+if new user ask recomendations
+select books
+buy
